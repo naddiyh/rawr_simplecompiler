@@ -1,0 +1,3 @@
+
+        except EOFError: 
+            break
